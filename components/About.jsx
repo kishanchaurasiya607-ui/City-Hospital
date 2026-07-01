@@ -19,9 +19,7 @@ export default function About() {
       <p>
         <samp>Apollo Hospitals:</samp> A nationwide network with over 75 hospitals and 520+ clinics. View their clinical milestones and specific local locations via Apollo Hospitals Network.
       </p>
-      <p>
-        <samp>Fortis Healthcare:</samp> Operates 36 integrated facilities across India focusing on clinical excellence and patient care. Read their mission and view patient reviews on Fortis Healthcare
-      </p>
+      
       
       </div>
 
